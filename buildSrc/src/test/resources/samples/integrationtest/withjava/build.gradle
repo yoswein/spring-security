@@ -9,6 +9,6 @@ repositories {
 }
 
 dependencies {
-	testCompile 'junit:junit:4.12'
+	testCompile 'junit:junit:4.13.2'
 	integrationTestCompile 'org.springframework:spring-core:4.3.7.RELEASE'
 }
