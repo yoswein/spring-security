@@ -50,7 +50,7 @@ dependencies {
 	api ("org.opensaml:opensaml-saml-impl")  {
 		exclude group: 'commons-logging', module: 'commons-logging'
 	}
-	opensaml4MainImplementation "org.opensaml:opensaml-core:4.1.0"
+	opensaml4MainImplementation "org.opensaml:opensaml-core:4.2.0"
 	opensaml4MainImplementation ("org.opensaml:opensaml-saml-api:4.1.0") {
 		exclude group: 'commons-logging', module: 'commons-logging'
 	}
