@@ -38,7 +38,7 @@ dependencies {
 		api "net.sourceforge.nekohtml:nekohtml:1.9.22"
 		api "org.apache.directory.server:apacheds-core-entry:1.5.5"
 		api "org.apache.directory.server:apacheds-core:1.5.5"
-		api "org.apache.directory.server:apacheds-protocol-ldap:1.5.5"
+		api "org.apache.directory.server:apacheds-protocol-ldap:2.0.0.AM25"
 		api "org.apache.directory.server:apacheds-protocol-shared:1.5.5"
 		api "org.apache.directory.server:apacheds-server-jndi:1.5.5"
 		api "org.apache.directory.shared:shared-ldap:0.9.15"
